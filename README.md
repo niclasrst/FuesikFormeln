@@ -1,2 +1,8 @@
-# F-sikFormeln
-Interactive formulary for physics
+# FüsikFormeln
+
+---
+
+## Installation
+
+> `npm install mathjs`
+> `node library.js`
